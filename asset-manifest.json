@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my-portfolio-website/static/css/main.a96d3937.css",
+    "main.js": "/my-portfolio-website/static/js/main.efc99ad0.js",
+    "static/media/jayson-hinrichsen-Lt6GerKg4bw-unsplash.jpg": "/my-portfolio-website/static/media/jayson-hinrichsen-Lt6GerKg4bw-unsplash.938b6ed0955a49de0aba.jpg",
+    "static/media/karsten-winegeart-CbzMRibb4xw-unsplash.jpg": "/my-portfolio-website/static/media/karsten-winegeart-CbzMRibb4xw-unsplash.817b93b3325d2ff02a96.jpg",
+    "static/media/bts.jpg": "/my-portfolio-website/static/media/bts.85b530018188c33601b4.jpg",
+    "static/media/cv.pdf": "/my-portfolio-website/static/media/cv.a2af24f4dc8e5e6869cb.pdf",
+    "index.html": "/my-portfolio-website/index.html",
+    "main.a96d3937.css.map": "/my-portfolio-website/static/css/main.a96d3937.css.map",
+    "main.efc99ad0.js.map": "/my-portfolio-website/static/js/main.efc99ad0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a96d3937.css",
+    "static/js/main.efc99ad0.js"
+  ]
+}
